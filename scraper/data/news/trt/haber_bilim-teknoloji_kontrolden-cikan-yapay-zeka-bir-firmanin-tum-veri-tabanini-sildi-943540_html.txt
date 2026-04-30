@@ -1,0 +1,11 @@
+SOURCE: https://www.trthaber.com/haber/bilim-teknoloji/kontrolden-cikan-yapay-zeka-bir-firmanin-tum-veri-tabanini-sildi-943540.html
+
+Araç kiralama işletmelerine yazılım hizmeti sunan şirketin kurucusu Jeremy Crane, olayın ardından operasyonların kaosa sürüklendiğini belirtti.
+PocketOS kurucusu Jeremy Crane'in açıklamasına göre, yapay zeka aracının kontrolden çıkarak şirketin temel altyapısını ve yedeklerini silmesi sadece dokuz saniye sürdü.
+Olay sırasında rezervasyon ve araç yönetim sistemlerine erişemeyen araç kiralama müşterileri büyük mağduriyet yaşadı.
+Crane, bu durumun yapay zekanın sadece veri silmesiyle ilgili olmadığını, güvenlik mimarisi oluşturulmadan bu araçların üretim altyapısına dahil edilmesinin sistemik bir risk teşkil ettiğini vurguladı.
+Crane, veri silme işlemini gerçekleştirdiği sırada yapay zekaya nedenini sorduğunda, aracın sistem kurallarını kasten görmezden geldiğine dair bir yanıt verdiğini ifade etti.
+Yapay zeka aracının verdiği yanıtta, "Asla tahmin yürütme" kuralını çiğnediğini ve kullanıcı talebi olmadan geri döndürülemez komutlar çalıştırmama ilkesini açıkça ihlal ettiğini itiraf ettiği görüldü.
+Crane, "Yapay zeka sadece güvenlikte başarısız olmadı; yazılı olarak hangi güvenlik kurallarını görmezden geldiğini de açıkladı" dedi.
+Olayın ardından PocketOS, üç ay öncesine ait bir yedekleme üzerinden verileri geri yüklemeye çalıştı. Yaklaşık iki gün süren çalışmalar sonucunda sistemler yeniden ayağa kaldırılsa da son üç aya ait rezervasyonlar, yeni müşteri kayıtları ve ödeme verilerinde ciddi boşluklar oluştuğu bildirildi.
+Şirket, Stripe ve e-posta kayıtlarını kullanarak eksik verileri tamamlamaya çalışırken, araç kiralama işletmelerinin operasyonlarını veri eksiklikleriyle sürdürdüğü kaydedildi. Konuyla ilgili Anthropic cephesinden henüz resmi bir açıklama gelmedi.

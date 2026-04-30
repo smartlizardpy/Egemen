@@ -1,0 +1,13 @@
+.ac, üst düzey alan adı, Saint Helena, Ascension ve Tristan da Cunha için İnternet ülke kodudur. (ccTLD), esas olarak Ascension Adası için kullanılır (Saint Helena'nın kendi ccTLD'si .sh vardır). Afilias'a ait Internet Computer Bureau şirketinin bir yan kuruluşu olan NIC.AC tarafından yönetilir. Alan adı için kayıt herkese açıktır. Kayıt kuruluşu uluslararası alan adlarının kayıtlarını kabul eder.
+.ac aynı zamanda Birleşik Krallık (.ac.uk), Japonya (.ac.jp), Belçika (.ac.be) gibi bazı ülkelerde üniversiteler gibi akademik kuruluşlara verilen ikinci düzey alan adıdır.
+
+
+Altalanları ve özellikleri
+com.ac: Şirketler için.
+net.ac: Ağ Servis Sağlayıcılar.
+gov.ac: Resmî kuruluşlar.
+org.ac: Ticari olmayan kuruluşlar.
+mil.ac: Askeri amaçlı.
+
+
+Kaynakça

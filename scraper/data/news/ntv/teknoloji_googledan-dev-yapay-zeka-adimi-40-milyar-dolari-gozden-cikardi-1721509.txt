@@ -1,0 +1,10 @@
+SOURCE: https://www.ntv.com.tr/teknoloji/googledan-dev-yapay-zeka-adimi-40-milyar-dolari-gozden-cikardi-1721509
+
+Google, Anthropic'e 40 milyar dolara kadar yatırım yapmayı planlıyor.
+ABD'li teknoloji devi Google , yapay zeka savaşında hamlelerini sürdürüyor.
+Bloomberg'in haberinde, Anthropic'in Google'ın nakit olarak 10 milyar dolarlık yatırım yapmayı taahhüt ettiğini açıkladığı aktarıldı.
+Haberde, Alphabet bünyesindeki Google'ın, Anthropic'in performans hedeflerine ulaşması durumunda, 30 milyar dolar daha ek yatırım yapacağı ve Anthropic'in bilgi işlem kapasitesinde gerçekleşecek önemli bir genişlemeyi destekleyeceği kaydedildi.
+Anthropic'in bilgisayar yazılımı yapma sürecini hızlandıran bir yapay zeka aracı olan "Claude Code"un yakaladığı başarının etkisiyle fon toplama çalışmalarını hızlandırdığına işaret edilen haberde, girişimin bu hafta Amazon'dan 5 milyar dolarlık ek bir fon sağladığını ve zaman içinde 20 milyar dolarlık ilave yatırım opsiyonunu duyurduğu anımsatıldı.
+Haberde ayrıca, Google Cloud'ın gelecek beş yıl boyunca Anthropic'e 5 gigavatlık bir bilgi işlem kapasitesi sağlayacağı, bunu birkaç gigavatlık ek kapasitenin daha takip edebileceği belirtildi.
+Bloomberg'in haberini doğrulayan Google, söz konusu yatırıma dair başka bir detay paylaşmadı.
+Web sitemizdeki çerezleri (cookie) kullanıcı deneyimini artıran teknik özellikleri desteklemek için kullanıyoruz. Aynı zamanda analitik çerezler de kullanıyoruz. Çerezleri reddetmek istiyorsanız detaylı bilgi için tıklayınız.

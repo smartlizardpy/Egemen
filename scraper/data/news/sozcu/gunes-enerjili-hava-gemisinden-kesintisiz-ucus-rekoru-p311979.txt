@@ -1,0 +1,15 @@
+SOURCE: https://www.sozcu.com.tr/gunes-enerjili-hava-gemisinden-kesintisiz-ucus-rekoru-p311979
+
+ABD’nin New Mexico eyaletinde gerçekleştirilen test uçuşu, havacılık tarihinin en zorlu katmanlarından biri olan stratosferde uzun süreli konaklama vizyonunu somutlaştırdı. 52.000 feet (yaklaşık 15,8 kilometre) irtifada seyreden araç, ticari uçuş rotalarının ve meteorolojik olayların üzerinde kalarak sistem dayanıklılığını kanıtladı.
+DÖNGÜSEL ENERJİ YÖNETİMİYLE KESİNTİSİZ GÖREV
+Yüksek İrtifa Platform İstasyonu (HAPS) olarak adlandırılan hava gemisi, çalışma prensibini tamamen sürdürülebilir enerji üzerine kurdu. Aracın dış yüzeyini kaplayan ultra hafif güneş panelleri, gündüz saatlerinde pilleri şarj ederken; gece boyunca depolanan enerji lityum-sülfür bataryalar aracılığıyla irtifayı korumak için kullanıldı.
+Mühendisler, 12 günlük süreçte enerji üretim ve tüketim dengesinin sorunsuz çalıştığını raporladı. Bu teknolojik altyapı, teorik olarak hava araçlarının aylar hatta yıllar boyunca yere inmeden görev yapabilmesine imkan tanıyor.
+UYDU SİSTEMLERİNE YERLİ VE ESNEK ALTERNATİF
+Sceye tarafından geliştirilen platformun, mevcut alçak yörünge uydularına göre önemli operasyonel avantajlar sunduğu kaydedildi. Uydu fırlatma maliyetlerine kıyasla çok daha ekonomik olan bu hava gemileri, ihtiyaç halinde yere indirilip sensör güncellemeleri yapıldıktan sonra tekrar göreve gönderilebiliyor.
+Yeryüzüne uydulardan daha yakın konumlanması sayesinde veri iletimindeki gecikme süresini (latency) minimize eden araç, kırsal bölgeler ve afet alanları için yüksek hızlı baz istasyonu işlevi görüyor.
+Platform, iletişim yeteneklerinin yanı sıra çevresel denetim sensörleriyle de donatıldı. Yüksek çözünürlüklü kameralar ve metan sensörleri sayesinde; orman yangınlarının anlık tespiti, petrol sızıntılarının takibi ve endüstriyel gaz sızıntılarının haritalandırılması hedefleniyor.
+Şirket, test uçuşunun başarıyla sonuçlanmasının ardından 2025 yılı itibarıyla ticari operasyonlara başlamayı planlıyor. Bu gelişme, fosil yakıt bağımlılığı olmayan ve stratosferde sabit durabilen yeni nesil hava araçları dönemini başlatıyor.
+www.sozcu.com.tr internet sitesinde yayınlanan yazı, haber ve fotoğrafların her
+                                    türlü telif hakkı Mega Ajans
+                                    ve Rek. Tic. A.Ş'ye aittir. İzin alınmadan, kaynak gösterilerek dahi iktibas
+                                    edilemez.

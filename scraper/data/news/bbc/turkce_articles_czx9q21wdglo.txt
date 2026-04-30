@@ -1,0 +1,78 @@
+SOURCE: https://www.bbc.com/turkce/articles/czx9q21wdglo
+
+Gündemi BBC Türkçe'den takip etmek artık WhatsApp'ta da mümkün. Haberlerimizin doğrudan telefonunuza gelmesi için tıklayın.
+Araştırmacı ve bilim insanı Nataliya Kosmyna stajyer ararken, aldığı başvuru mektuplarının şüpheli derecede benzer olduğunu fark etti. Uzun, özenli hazırlanmış ve girişlerden sonra genellikle soyut ve rastgele bir şekilde çalışmasıyla bağlantı kuran metinlerdi.
+Başvuranların mektupları ChatGPT, Google Gemini ve Claude gibi sohbet robotlarını destekleyen bir yapay zeka biçimi biçimi olan büyük dil modellerini (LLM) kullandıkları açıktı.
+Massachusetts Teknoloji Enstitüsü'nde (MIT) verdiği derslerde, insan ve bilgisayar arasındaki etkileşimi inceleyen Kosmyna, birkaç yıl öncesine kıyasla birçok öğrencisinin ders içeriği daha kolay unuttuğunu fark etti.
+LLM'lere olan artan bağımlılıkla birlikte, bunun öğrencilerinin bilişsel yeteneklerini etkileyebileceğinden şüphelendi ve durumu anlamaya çalıştı.
+Kosmyna gibi araştırmacıların endişesi, yapay zekaya çok fazla bağımlı hale gelirsek, kullandığımız dili ve hatta temel bilişsel görevleri yerine getirme yeteneğimizi etkileyebileceği.
+"Bilişsel yükün yapay zekaya devredilmesinin" zihinsel yeteneklerimizde aşındırıcı bir etki yapabileceğini söyleyen araştırmaların sayısı artıyor.
+Bunun sonuçları endişe verici olabilir ve hatta bilişsel gerilemeye bile yol açabilir.
+Kullandığımız araçların düşünme biçimimizi değiştirebildiği iyi biliniyor.
+Örneğin, internetin ortaya çıkmasıyla birlikte, eskiden derinlemesine araştırma gerektiren görevler, basit bir sorguyu arama kutusuna yazarak yapılabilmeye başlandı.
+Arama motorlarının kullanımı arttıkça, araştırmalar ayrıntıları hatırlama ihtimalimizin azaldığını gösterdi.
+Bu durum "Google etkisi" diye adlandırıldı.
+Ancak bazıları da, internetin diğer görevleri yapabilmesi için beynimizi için serbest bırakan harici bir hafıza sistemi görevi de gördüğünü savunuyor.
+Fakat düşünme süreçlerimizin daha da büyük bir kısmını yapay zeka araçlarına ve diğer yapay zeka türlerine devrettikçe, hafızamız ve problem çözme yeteneğimiz üzerindeki etkilerin daha da kötüleşebileceğine dair artan bir endişe var.
+Yapay zeka araçları ikna edici şiirler yazabiliyor, finansal tavsiyelerde bulunabiliyor ve arkadaşlık edebiliyorlar.
+Öğrenciler de giderek daha fazla kendi işlerini yapay zeka araçlarına devrediyor.
+Çalışmalar zaten özellikle gençlerin yapay zeka kullanımının eleştirel düşünme gibi temel bilişsel beceriler üzerindeki olumsuz etkilerine daha açık olabileceğini gösteriyordu.
+Ancak Kosmyina, potansiyel etkileri daha derinlemesine incelemek istedi.
+Kosmyina MIT Medya Laboratuvarı'ndaki meslektaşlarıyla birlikte 54 öğrenciye kısa denemeler yazma görevi verdi ve deneklerini üç gruba ayırdı.
+Bir gruba ChatGPT kullanma talimatı verildi.
+İkinci grup, yapay zekayla özet özelliği kapalıyken Google arama motorunu kullandı.
+Üçüncü grup ise herhangi bir teknoloji kullanmadı.
+Denemeleri üzerinde çalıştıkları sırada her bir öğrencinin beyin dalgaları ölçüldü.
+Deneme konuları kasıtlı olarak açık uçluydu, yani çok az araştırma gerekiyordu.
+Sadakat, mutluluk veya günlük yaşamdaki seçimlerimiz dahil olmak üzere çeşitli konular ele alındı.
+Sonuçlar henüz bilimsel bir dergide yayınlanmadı ama Kosmyna'ya göre yine de çok dikkat çekiciydi: Kendi zihinlerini kullananların beyinlerinin "alev alev" olduğunu, beynin birçok bölgesinde yaygın aktivite gösterdiğini söylüyor.
+Sadece arama motoru kullanan grup hala beynin görsel kısımlarında güçlü aktivite gösterirken, ChatGPT kullanan grupta beyin aktivitesi belirgin şekilde, %55'e kadar azalmıştı.
+Kosmyna "Beyin uykuya dalmadı ama yaratıcılığa ve bilgi işlemeye karşılık gelen alanlarda çok daha az faaliyet oldu" diyor.
+ChatGPT ayrıca insanların hafızalarını da etkiledi.
+Yapay zeka grubundakiler, makalelerini gönderdikten sonra bu metinden alıntı yapamadılar ve birkaçı da denemeleri üzerinde hiçbir sahiplik duygusu hissetmediklerini söyledi.
+Diğer çalışmalar da ChatGPT gibi yapay zeka araçlarını kullandıklarında insanların bilgiyi saklama ve hatırlama yeteneklerinin azaldığını gösteriyor.
+Pennsylvania Üniversitesi'ndeki araştırmacılar tarafından yapılan bir çalışma, bazı kişilerin yapay zeka sohbet robotlarını kullanırken "bilişsel teslimiyet" diye adlandırdıkları bir durum yaşadığı sonucuna vardı.
+Bu, yapay zekanın söylediklerini çok az  incelemeyle kabul etme ve hatta kendi sezgilerinin önüne geçmesine izin verme eğiliminde oldukları anlamına anlamına geliyor.
+Benzer etkiler, hayati tehlike bulunan durumlarda bile görülebiliyor.
+Uluslararası bir araştırma ekibinin yakın geçmişteki bir araştırmasında, üç ay boyunca bağırsak kanseri taraması için yapay zekâ kullanan uzmanların, daha sonra bu araç olmadan tümörleri tespit etmede daha başarısız oldukları tespit edildi.
+Kosmyna, işleri yapay zekaya devretmenin, özgün eserler üreten yaratıcılığın büyük bir kısmının kaybolması riskini de beraberinde getirdiğini söylüyor.
+Çalışmasındaki öğrencilerin ChatGPT ile yazdıkları denemelerin birbirine çok benzediğini ve öğretmenler tarafından "ruhsuz", özgünlük ve derinlikten yoksun olarak nitelendirildiğini söylüyor.
+"Öğretmenlerden biri, denemeler çok benzer olduğu için öğrencilerin yan yana oturup oturmadığını sordu" diyor.
+Bu tür çalışmalar, LLM'lerin beyin üzerindeki kısa vadeli etkilerini gösterse de uzun vadeli etkileri konusunda çok daha az şey biliniyor.
+Kosmyna ve meslektaşlarının araştırması biraz ipucu veriyor.
+İlk çalışmadan dört ay sonra öğrencilerden başka bir deneme yazmaları istendi fakat bu sefer daha önce ChatGPT kullananlara LLM desteği olmadan çalışmaları söylendi.
+Beyinlerindeki sinirsel bağlantı, ilk çalışmada tam tersini yapanlara göre daha düşüktü.
+Bu da belki de en başından beri deneme konularını doğru şekilde ele almadıklarını gösteriyor.
+Yine de, nöroloji uzmanı ve "Robot Proof" kitabının yazarı Vivienne Ming'e göre, yapay zeka tabanlı makineler (LLM'ler) düşünmeyi desteklemek için pozitif bir araç olabilir.
+Fakat bu süreçte zihinsel görevlerimizi dışarıya yaptırarak buna bağımlı hale gelmememiz şartıyla.
+Ancak Ming, çoğu insanın bu teknolojiyle bu şekilde etkileşim kurmamasından endişeli.
+Endişesi, kitabı için yaptığı araştırmadan kaynaklanıyor: Ming, Berkeley Üniversitesi'ndeki bir grup öğrenciden petrol fiyatlarını tahmin etmelerini istedi.
+Katılımcıların çoğunun sadece yapay zekaya soru sorduğunu ve cevabı kopyaladığını gördü.
+Beyinlerindeki bilişsel çalışmanın bir göstergesi olan gama dalgası aktivitesini ölçtü ve çok az faaliyet gördü.
+Araştırması henüz yayınlanmadı ama Ming, bulgularının daha sonraki çalışmalarda da doğrulanması durumunda uzun vadeli sonuçlar doğurabileceğinden endişeli.
+Örneğin, bazı araştırmalarda zayıf gama dalgası aktivitesi yaşamın ilerleyen dönemlerinde bilişsel gerilemeyle ilişkilendirildi.
+Ming "Bu gerçekten endişe verici" diyor:
+"Eğer bu, insanların bu sistemlerle etkileşim kurmasının doğal bir yoluysa – ve bunlar zeki çocuklar – bu kötü bir şey."
+Derinlemesine düşünmenin süper gücümüz olduğunu söylüyor:
+"Bunu kullanmazsak, bilişsel sağlık üzerindeki uzun vadeli etkileri oldukça büyük olur."
+Çünkü Ming, LLM'lere güvendiğimizde çok az bilişsel çaba gerektiğini ve sağlıklı beyin için bilişsel çaba harcamamız gerektiğini ekliyor.
+Ancak katılımcıların küçük bir kısmı, %10'dan azı farklı çalıştı ve yapay zekayı, daha sonra kendi analiz ettikleri verileri toplamak adına bir araç olarak kullandı.
+Bu kişiler diğer katılımcılara göre daha doğru tahminlerde bulundular ve daha yoğun bir beyin faaliyeti gösterdiler.
+Yaklaşık 20 önce Ming, 20 ila 30 yıl içinde Google haritalarına aşırı bağımlılığımızla doğrudan ilişkili olarak bunama oranlarında anlamlı bir artış göreceğimizi öngörmüştü.
+Ming "Bunu biraz kışkırtıcı bir şekilde söylemiştim" diyor:
+"Navigasyonu düşünmeniz gerekmiyorsa, mutlaka fark edilebilir bir etkisi olacaktır."
+Bu tahmine dair verilerimiz olmasa da, üç yıl boyunca 13 kişi üzerinde yapılan bir araştırmaya göre, GPS kullanımındaki artış zamanla mekansal hafızanın bozulmasıyla ilişkilendirildi.
+Başka bir araştırmaya göreyse zayıf mekansal navigasyon Alzheimer hastalığının potansiyel bir göstergesi olabilir.
+Beynimiz ne kadar aktifse, bilişsel gerilemeye karşı o kadar iyi korunduğu açık.
+Ming'e göre bu nedenle, uzun süreli harita kullanımı sadece yaratıcılığı azaltmakla kalmıyor, bilişsel işlevlere zarar verebiliyor ve potansiyel olarak bunama riskini artırabiliyor.
+Yapay zeka araçlarının kullanımı arttıkça, bu araçlarla zarar değil de fayda verebilecekleri bir şekilde çalışmamız gerekiyor.
+Ming nihai hedefin, insan ve makinelerin "zor işleri" birlikte yaptığı bir tür "hibrit zeka" olabileceğini söylüyor.
+Bununla sadece yapay zekaya soru sorup yanıtlarını kabul etmek yerine önce düşünmeyi ve eleştirel bir şekilde yaklaşmayı kastediyor.
+Kosmyna da aynı fikirde ve önce yapay zeka araçları olmadan konuları öğrenerek bir temel oluşturmayı ve ardından bu araçları kullanmayı düşünmeyi öneriyor.
+Ayrıca, kendi düşüncelerinizi sorgulamak için "düşman talimatları" olarak adlandırdığı yöntemi kullanmanızı öneriyor.
+Bu yöntem, bir yapay zekayı düşman gibi davranmaya teşvik ederek, fikirlerinizin neden yanlış olduğunu ve bunları nasıl düzeltebileceğinizi ayrıntılı olarak açıklamasını talep etmekle işliyor.
+Bu da yapay zekanın verdiği cevapları kabul etmek yerine argümanlarınızı savunmanızı ve geliştirmenizi sağlıyor.
+Önerdiği bir diğer teknik ise "verimli sürtüşmeyi" önceliklendirmek ve yapay zekadan cevaplar vermek yerine, sadece bağlam sağlamasını ve sorular sormasını istemek.
+Sonuç olarak, hepimiz bilişsel kısayollardan sakınmalıyız çünkü Kosmyna'nın dediği gibi "beynimiz bunu çok seviyor".
+Fakat uzun vadede beyin sağlığı için kendimizi zorlamaya devam etmeliyiz.
+Bu hem zihnimiz hem de yaratıcılığımız ve bilişsel sağlığımız için faydalı.

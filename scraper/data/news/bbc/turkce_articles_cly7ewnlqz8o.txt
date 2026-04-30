@@ -1,0 +1,46 @@
+SOURCE: https://www.bbc.com/turkce/articles/cly7ewnlqz8o
+
+Çöl denince aklımıza uçsuz bucaksız Gobi veya Sahra gelir.
+Gerçekteyse çöller, farklı seviyelerde bitki, hayvan ve insan yaşamının olduğu çok çeşitli alanlar.
+Mısır'ın başkenti Kahire, 23 milyondan fazla kişiyi barındıran dünyanın en büyük çöl şehri.
+Fakat genel anlamıyla çöl, sınırlı su miktarı nedeniyle çoğu canlının gelişmesinin zor olduğu son derece kurak bir ortam.
+Ve çöller büyüyor. Birleşmiş Milletler'e (BM) göre her yıl yaklaşık 1 milyon kilometrekare sağlıklı toprak bozuluyor.
+Dünyadaki verimli topraklar azaldıkça, farklı yollarla su üretmek ve çölleri bitkilerin gelişebileceği bir yer haline getirmek mümkün mü?
+Çin'de Pekin Üniversitesi'nden coğrafya bilimleri profesörü Yan Li, "Çölleşme, otlak veya çalılık gibi doğal bir arazinin bir şekilde giderek daha kuru hale gelmesi ve ardından çöle dönüşmesi anlamına geliyor" diyor.
+1970'lerde bilim insanı Jule Charney, insanların faaliyetlerinin bu süreçte önemli bir rol oynadığını tespit etti.
+Li, BBC'nin CrowdScience programına yaptığı açıklamada "Çok fazla hayvan olduğunda, bu hayvanlar tüm otları yerler, bu nedenle otlu alanlar çıplak toprağa veya kuma dönüşür" diyor.
+Bu olduğunda, çıplak kum çok parlak olduğundan güneş ışığının büyük bir kısmını yansıttığı için albedo, yani yüzeyin yansıtma gücü değişiyor.
+Toprak ısıyı emmek yerine yansıttığında, üzerindeki hava o kadar ısınmıyor. Bu, daha az nemin buharlaşması ve daha az bulut oluşması anlamına geliyor. Böylece bölge daha da kuruyor.
+Li, bunun tersinin işe yarayıp yaramayacağını araştırdı. "Yüzey albedosunu azaltabilirsek ne olur? Bu yağışı artırır mı?" soruları eşliğinde...
+Li, bunun için güneş panellerinin harika bir yöntem olduğunu söylüyor. Güneş panelleri koyu renkli ve koyu yüzeyler ısıyı emiyor, bu da havayı ısıtmaya, nemi yukarı doğru kaldırmaya ve bulut oluşumuna yardımcı oluyor.
+Ekibi, Sahra Çölü'nün yüzde 20'sinin koyu renkli güneş panelleriyle kaplanması durumunda ne olacağını simüle eden bir model oluşturdu.
+Li, "Rüzgar türbinlerimiz olursa, yüzey pürüzlülüğünü değiştirecektir" diyor ve ekliyor:
+"Daha fazla sürtünmeyle, türbülans yoluyla atmosfere daha fazla enerji aktarılabilir. Ve türbülans, hava olaylarını ve bu bulutları oluşturur."
+Li'nin modeli, tüm Sahra Çölü'nün ortalama yağış miktarının iki katına çıkacağını öngördü.
+Ancak şu anda bu sadece bir simülasyon ve güneş panelleri ile rüzgar türbinlerinin boyutları muazzam. Yaklaşık 2 milyon kilometrekarelik bir alanı kaplıyorlar. Bu neredeyse Meksika veya Endonezya büyüklüğünde.
+Li ayrıca, bu yöntemin yalnızca nemli havanın karaya çekilebildiği okyanusa yakın Sahra gibi yerlerde işe yaradığını vurguluyor.
+Gobi veya Ortadoğu'dakiler gibi diğer birçok çöl, denizden çok uzakta.
+Kaynak, MARTIN BERNETTI/AFP via Getty Images
+Dünyanın en kurak yeri olarak bilinen Şili'deki Atacama Çölü'nde, havadan su çeken bir teknoloji var.
+Şili'deki Universidad Mayor'un coğrafya bölümünden Yardımcı Doçent Virginia Carter, bu sis toplama sistemlerinin uzmanı.
+"Sis hasadı yaklaşık 50 yıl önce Şili'de icat edildi. Amaç, çöldeki bulutlardan su toplamak" diyor.
+Sis suyunu yakalamak oldukça basit. Direkler arasına bir ağ asılıyor ve nem yüklü bulutlar bu ince ağdan geçerken damlacıklar oluşuyor. Su daha sonra borulara ve depolama tanklarına yönlendiriliyor.
+Carter, Şili'nin kuzey ucunda metrekare başına günde ortalama iki litre su toplanabildiğini, diğer yerlerde ise bu miktarın yedi litreye kadar çıkabildiğini söylüyor.
+Peki, sis hasadı bir gün çölün yeşil alana alan dönüşmesine yardımcı olabilir mi?
+Carter'a göre bu mümkün değil. Ekibi şu anda Atacama Çölü'nde sis suyunu kullanarak hidroponik bir proje yürütüyor. Yani bitkileri toprak yerine su bazlı besin çözeltilerinde yetiştiriyorlar.
+Fakat bunun dezavantajları da var. Diğer tekniklere kıyasla hasat edebileceğiniz su miktarı çok daha az ve sisli bir yerde olmanız gerekiyor ki, bu da genellikle kıyıya yakın bir yer demek.
+Kaynak, Clea Rekhou/The Washington Post via Getty Images
+Peki küresel düzeyde deniz seviyeleri yükselirken, suyu doğrudan denizden almak çare olabilir mi?
+Deniz suyunu tuzdan arındırma inanılmaz derecede güçlü bir yöntem olsa da, günümüzde uygulanan hali çok enerji yoğun ve genellikle fosil yakıtlara dayanıyor.
+İngiltere'de Derby Üniversitesi'nden Profesör Christopher Sansom, güneş enerjisiyle çalışan daha küçük kapasiteli tuzdan arındırma üniteleri geliştiriyor.
+Güneş ışığını borulara odaklamak için aynalar kullanıyor ve bu sayede deniz suyunu kaynatıp tuzu ayırabiliyor.
+Ancak insanoğlunun ihtiyaçlarına ayak uydurmak, hatta çölleri yeşil alanlara dönüştürmek için, tuzdan arındırma işleminin önemli ölçüde artması gerekecek.
+Ve bu nasıl yapılırsa yapılsın geriye, tesislerin çevresindeki ortama zarar verebilecek çok miktarda tuz artığı kalıyor.
+Teorik olarak, deniz suyunu tatlı suya dönüştürerek, bulutlardan enerji toplayarak veya hatta çöldeki hava koşullarını değiştirerek çölleri yeşil alanlara dönüştürebiliriz.
+Ancak çöller o kadar da kötü yerler değil.
+Li, çöllerin "dünyada doğal bir olgu" olduğunu söylüyor, "Çöl istikrarlıysa sorun yok. Olduğu yerde bırakabiliriz" diyor.
+İngiltere'de Nottingham Üniversitesi'nden bitki bilimci Zinnia Gonzalez Carranza, "Çölü yeşil alana dönüştürmeye veya çöle su getirmeye çalışmak yerine, oradaki yaşamı korumamız gerektiğini düşünüyorum" diyor.
+Çöllük alanları yeşillendirme girişiminin uzun vadede çevre ve çölleri evleri olarak gören insanlar için zararlı olabileceğini söylüyor:
+"Belki bir süre iyi ürünler elde edebiliriz ama bu çok fazla su pahasına olur. Ve gördüğümüz şey şu ki, bu ürünlerde çok fazla su kullanırsanız, çölün etrafında yaşayan topluluklar bundan zarar görüyor.
+"Bence yapabileceğimiz en iyi şey, çölü gerçekten anlamak, çöle saygı duymak ve onunla birlikte çalışmak için çaba sarf etmek."
+Bu haber BBC Dünya Servisi radyosunda yayınlanan CrowdScience programının bir bölümünden uyarlandı.

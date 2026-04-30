@@ -1,0 +1,16 @@
+1080i, yüksek çözünürlüklü video modudur. Bu gösterimdeki 1080 sayısı her bir dikey çizgide yer alan piksel sayısını, i harfi ise interlaced özelliğini (geçmeli tarama) ifade eder. Geçmeli tarama, ilerlemeli (progressive) taramanın karşıtıdır. 1080i, yüksek çözünürlüklü HD TV video modlarından biridir. Bu mod, genellikle geniş ekran 16:9 ekran büyüklükteki televizyonlarda kullanılmaktadır.
+Her yatay çizgideki piksel sayısı 1920, dikey çizgideki piksel sayısı ise 1080'dir. Yaklaşık olarak 2,1 milyon piksel bulunmaktadır. 720p yüksek çözünürlüklü video moduna göre, 1080i modu daha fazla sarsıntılı olmasına karşın, 720p'ye göre daha fazla detaylı bir gösterim sunmaktadır.
+
+
+Klasik video modlarına (CCIR B sistemi gibi) göre üstünlükleri
+Yüksek video çözünürlüğü
+16:9 geniş ekran özelliği. Bu video modunun kaliteli bir biçimde izlenebilmesi için ekran büyüklüğünün geniş olması gerekmektedir.
+Çok kanallı ses sistemini desteklemektedir.
+
+
+Ayrıca bakınız
+720p
+1080p
+PAL
+NTSC
+SECAM

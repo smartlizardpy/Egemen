@@ -1,0 +1,11 @@
+.by, Belarus için internet ülke kodu üst seviye alan adıdır. (CcTLD). Belarus Cumhuriyeti Cumhurbaşkanı'na bağlı Operasyon ve Analiz Merkezi (Оперативно-аналитический центр при Президенте Республики Беларусь) tarafından yönetilmektedir. BY kodu, ülkenin eski adı olan Beyaz Rusya'nın ISO kodundan kaynaklanmaktadır. ccTLD, 10 Mayıs 1994'te Belarus için oluşturuldu.
+
+
+Tarih
+Başlangıçta Belarus'ta .by alan adı kayıtlarını gerçekleştiren tek bir şirket vardı – Open Contact Ltd. Ekim 2006'da iki Belaruslu şirket daha kriptografik yollarla yürütülmesi ve dijital imza kullanımı da dahil olmak üzere bilgilerin teknik olarak korunmasını sağlamak için lisans aldı. Bunlar Reliable Software Inc. ve Business Network JV idi. İlki 27 Mart 2007'den beri talep almaya ve alan adı kaydı yapmaya başladı. Lisans 3 Eylül 2007'de Extmedia'ya ve 29 Haziran'da Active Technologies'e verildi. Şu anda beş şirketin her biri alan adı kaydını resmi olarak gerçekleştiriyor. 1994'ten beri .by alan adının tek Teknik Yöneticisi Open Contact Ltd. oldu.
+İnternet güvenliği konusunda yetkili devlet kurumu olan Operasyon ve Analiz Merkezi (OAC) tarafından Eylül 2010'da gerçekleştirilen yarışmanın sonuçlarına göre, .by alan adı Reliable Software Inc.'e (hoster.by) devredildi. ICANN, 7 Şubat 2012'de şirketin adaylığını kesin bir dille onayladı.
+2007 yılında Open Contact Ltd. .by alan adının Teknik Yöneticisi iken ulusal alan adlarının fiyatını 190.000 Belarus rublesinden (88 ABD doları) 130.000 Br'ye (60 ABD doları) düşürdüğünü duyurdu. Bu önlem Belarus web sitelerinin genel üst düzey alan adlarından ulusal olana aktarılması sürecini tetikledi.
+Reliable Software Inc. (hoster.by)'nin 2012 yılında .by alan adının Teknik Yöneticisi olmasıyla birlikte bir dizi değişikliğe gidildi: Operasyon ve Analiz Merkezi'nde (OAC) yapılan başvuruların değerlendirilmesi ve alan adı için 30 günlük ücretsiz rezervasyon hakkı ortadan kaldırıldı ve WHOIS hizmeti çalışmaya başladı.
+
+
+Kaynakça

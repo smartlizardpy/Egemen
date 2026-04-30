@@ -1,0 +1,25 @@
+Japonya'nın internet ülke alan adıdır. Japan Registry Services Co., Ltd. tarafından yönetilir.
+
+
+İkinci seviye alan adları
+.ac.jp: Yükseköğretim kurumları.
+.ad.jp: Japonya Ağ Bilgi Merkezi (JABM) üyeleri.
+.co.jp: Japonya'da kayıtlı Anonim şirketler (yabancı şirketlerde dahil)
+.ed.jp: 18 yaşından küçüklerin okuduğu eğitim kurumları. (lise, ilköğretim gibi)
+.go.jp: Japon bakanlıkları.
+.gr.jp: İki veya daha fazla kişilik gruplar ve kayıtlı şirket grupları.
+.lg.jp: Yerel hükûmet yetkilileri.
+.ne.jp: Servis sağlayıcıları.
+.or.jp: Kayıtlı kuruluşlar ve kâr amacı gütmeyen kuruluşlar.
+ Diğerleri:
+
+(organizasyon).(şehir ismi).(valilik ismi).jp:
+metro.tokyo.jp: Tokyo hükûmeti için ayrılmış olan alan adı.
+pref.(valilik ismi).jp: Valilikler için ayrılmış olan alan adı.
+city.(şehir ismi).jp: Şehir hükûmetleri için.
+city.(şehir ismi).(valilik ismi).jp:
+town.(şehir ismi).(valilik ismi).jp: Şehirler için.
+vill.(köy ismi).(valilik ismi).jp: Köyler için.
+
+
+Kaynakça

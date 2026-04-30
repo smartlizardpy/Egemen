@@ -1,0 +1,6 @@
+SOURCE: https://www.trthaber.com/haber/ekonomi/akkuyuda-1inci-guc-unitesinde-pasif-isi-alma-sisteminin-kurulumu-tamamlandi-943530.html
+
+Akkuyu Nükleer AŞ'den yapılan açıklamaya göre, Rusya Devlet Nükleer Enerji Kuruluşu Rosatom tarafından inşa edilen Akkuyu NGS'de uzmanlar deflektör, ısı eşanjörleri ve elektromanyetik cihazların da dahil olduğu 90 ekipman ve yapısal elemandan oluşan bileşenlerin aşamalı montajını tamamladı.
+Söz konusu montajın son aşamasında, reaktör binası kubbesine havalandırma boruları yerleştirildi ve PHRS döşeme plakalarında betonlama işlemi gerçekleştirildi.
+Böylece 1'inci güç ünitesi devreye alma işlemleri hazırlık sürecinin yürütülmesi için gerekli tüm güvenlik sistemleriyle donatıldı.
+Akkuyu NGS her biri 1200 megavat kapasiteli 3+ nesil VVER reaktörlere sahip dört güç ünitesinden oluşuyor. VVER reaktörlü modern NGS tasarımları, geleneksel aktif güvenlik sistemlerinin yanı sıra PHRS'nin de aralarında bulunduğu ek pasif güvenlik sistemleriyle donatılıyor. 3+ nesil NGS'lerin güvenlik sistemlerinin önemli bir unsuru olan PHRS, ilk olarak Akkuyu NGS'nin referans santrali olan Rusya'daki Novovoronej NGS'nin yeni güç ünitelerinde kurulmuştu.

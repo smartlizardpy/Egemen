@@ -1,0 +1,30 @@
+SOURCE: https://www.ntv.com.tr/turkiye/gulistan-doku-sorusturmasinda-gozler-eski-polise-cevrildi-1722275
+
+Gülistan Doku’nun sosyal medya hesabına girerek iki kişiyi sildiği ileri sürülen Ertok, 16 Nisan 2026'da tutuklanmıştı.
+5 Ocak 2020 tarihinde kaldığı yurttan ayrıldıktan sonra bir daha haber alınamayan Gülistan Doku 'yla ilgili soruşturma, savcılığa verilen yeni ifadelerle genişledi. Bu kez gözler, eski polis Gökhan Ertok'a çevrildi.
+Ertok, HTS kayıtları ve banka dokümanlarının incelenmesi sonrası 16 Nisan 2026'da tutuklandı.
+Kendisinin eski Tunceli Valisi Tuncay Sonel ve koruması Şükrü Eroğlu'yla görüşme trafiği ve birden fazla para transferi vardı.
+Ertok, Gülistan Doku’nun sosyal medya hesabına “‘şifremi unuttum” yöntemini kullanarak girmek ve bu şekilde iki kişiyi silmek, SIM kartını bir telefona takarak veri akışı sağlamakla suçlanıyor.
+“Olayı bana yıkacaklar.” diyerek etkin pişmanlıktan faydalanmak istediğini belirten Ertok, şunları öne sürüyor:
+“O dönemki Tunceli valisi Tuncay Sonel ve Şükrü Eroğlu isimli şahıslar beni bir nevi soruşturmayı savcılık ile birlikte yapıyormuş gibi, ‘basın çok üstümüze geliyor kızı bulmalıyız’ diye kandırarak siber konusundaki benim teknik kabiliyetimden faydalanarak beni kullandılar, bu hususta bende mağdur edildim. Pişmanım. Etkin pişmanlıktan faydalanmak istiyorum.”
+TUNCAY SONEL: SIM KARTINI GÖKHAN'A BEN GÖNDERTTİM
+Bu konu, eski Tunceli Valisi Tuncay Sonel'in sorgusunda da gündeme geldi.
+Oğlu Mustafa Türkay'ı cinayet soruşturmasından kurtarmak için delil karartmakla suçlanan Sonel, "Ertok'la nasıl irtibat kurdunuz?" sorusunu şöyle yanıtladı:
+"İş adamı Mehmet Aca'yı tanırım. O da yanımda bir muhabbet anında Ankara Emniyeti'nde görevli, bilgisayardan ve sosyal medyadan anlayan Gökhan Komiser olduğunu belirtince, benimle ilgili illegal örgütler tarafından atılan tweetler ve paylaşımlarla ilgili bilgi alması için Gökhan'dan yardım istedik. Tanışmamız bu şekilde oldu. Ben Gökhan'la hiç yüz yüze gelmedim. Ankara'da görevli bir memur olduğunu biliyorum.”
+Sonel, Gülistan'ın kaybolduğu ilk günlerde genç kadının ablası Aygül Doku'nun “Sayın Valim, bir SIM kart var” dediğini, bunun üzerine koruma ve özel kaleme talimat verdiğini öne sürdü:
+“Valilikte olduğum bir günde tam dışarı çıkarken ağlamaklı bir ses duydum. Baktığımda Aygül Doku (ablası) olduğunu gördüm. 'Merdivenin başında Sayın Valim bir SIM kart var' dedi. Ben de koruma ve özel kaleme 'gereğini yapalım' dedim. Sonra çıktım işlerime devam ettim."
+“Koruma polisi arkadaşımıza bu kartı daha önce Ankara Emniyeti'nde komiser bildiğimiz Gökhan Komiser'e bir baktıralım diye gönderttim. Zira arama kurtarma yoğun bir şekilde devam ettiği için konum bilgisini baktırmak ve aynı zamanda son görüşmeleri nerede olmuş onları öğrenmek için göndermiştim.”
+“Koruma polisi bu kartı göndermiş. Gökhan yaptığı inceleme sonrasında viyadüğün alt bölgesinde bir konum tespit etmiş. Bu bana iletildi. Kızın ablası 'Savcıya gidemiyorum, ulaşamıyorum, almıyorlar 'dediği için ben aldım.”
+“Bu olay kayıp olayından 2 ya da 3 hafta sonra olmuştur. Biz de insanız, kayıp kızımızı bir an önce bulmak için vali olarak böyle bir yol izledim. Dolayısıyla bundan çıkan bilgilerden dolayı arama bölgesini işaret ettiğim bir alan vardı, bir arama bölgesi tespit etmiş.”
+HASTANEDEKİ BİLGİ İŞLEMCİLER: HACKER TARAFINDAN SİLİNMİŞ OLABİLİR
+Soruşturmada seneler sonra ortaya çıkan yeni ayrıntılardan biri de, Doku'nun tüm hastane kayıtlarının silinmesiydi. Savcılık, hastane kayıtlarına ilişkin tespiti dosyaya “kesinlikle silinmiş” notuyla dahil etti.
+Dönemin Tunceli Devlet Hastanesi Başhekimi Çağdaş Özdemir "resmi belgeyi bozma, yok etme veya gizleme" suçlamasıyla 20 Nisan 2026'da tutuklandı; ifadesinde bilgi işlem görevlileri Burçin Yerlikaya ve Yücel Erdem'i işaret etti:
+İki ismin geçen günlerde savcılıkta verdiği ifade ortaya çıktı. Burçin Yerlikaya, Özdemir'in iftira attığını savunarak şunları söyledi:
+“Zaman zaman hastane serverlerinin elektrik kesintisi veya sistemsel sebeple çöküntüye uğradığı olurdu. Böyle zamanlarda sistem yedek almaz, veriyi kaydetmez, bunlar da firmadan tekrar talep edilirdi. Yani eş zamanlı olarak bizde sistem çökse bile firmada bunun kaydı olurdu.”
+“Serverin çöktüğü dönemlere ait tüm tutanaklar hastanemizde bir klasörde muhafaza edilmektedir. Hastaneden talep edilirse dosya içerisine alınabilir. Siz bana log kayıtları dahi silinmiş dediğinizde çok şaşırdım. Ne benim ne de Yücel Beyi'n zaten log kayıtlarını silecek yeteneği ve tecrübesi yoktur. Gerçekten log kayıtları silindiyse dışarıdan bir müdahale ile veya hacker tarafindan silinmiş olduğunu düşünüyorum.”
+Yücel Erdem de yapılan işlemlerden haberi ve bilgisinin olmadığını ve log kayıtlarını silme yetkisi ve tecrübesinin bulunmadığını öne sürdü:
+"Benim bilgi işlem tecrübem olsa da ben sadece yapmam gereken konularda işimin gerektirdiği
+şekilde yüzeysel olarak işlem yapabilirim. Bir hastanın kaydını sildikten sonra log kayıtlarını dahi silebilecek yeteneğe ve tecrübeye sahip değilim."
+"Yetkisiz erişim şeklinde rapor düzenlendiyse muhtemelen sisteme erişim yetkisi olmayan bir hacker tarafindan da girilip yapılmış olabilir. Basından takip ettiğim kadarıyla bu işleri yapan Gökhan isimli bir kişiden bahsedilmektedir. Yetkisiz erişim ile hastane kaydı silindiyse bu işlemi de Gökhan isimli kişiye yaptırmış olma ihtimalleri vardır."
+Sonel'in sözleri ve bilgi işlemcilerin ifadesi sonrası gözler, bir kez daha eski polis Gökhan Ertok'a çevrildi.
+Web sitemizdeki çerezleri (cookie) kullanıcı deneyimini artıran teknik özellikleri desteklemek için kullanıyoruz. Aynı zamanda analitik çerezler de kullanıyoruz. Çerezleri reddetmek istiyorsanız detaylı bilgi için tıklayınız.

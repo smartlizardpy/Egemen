@@ -1,0 +1,8 @@
+SOURCE: https://finans.cnnturk.com/doviz
+
+CNN Türk Dolar kuru sayfasından güncel olarak Dolar alış satış fiyatlarının TL (Türk Lirası) karşılıklarını görebilirsiniz.
+                    CNN Türk Finans sayfasındaki Dolar grafiği ile günlük, haftalık, aylık ve yıllık periyotlarda Dolar düştü mü,
+                    yükseldi mi öğrenebilirsiniz. Detaylı Dolar kuru istatistikleri yerine sadece Dolar alış satış fiyatını takip etmek
+                    isterseniz, grafiğin yukarısındaki Dolar satış, alış ve değişim alanlarını inceleyebilirsiniz. Anlık Dolar kuru, 1 Dolar
+                    kaç TL gibi sorularınıza hızlıca cevap bulabilirsiniz. CNN Türk Döviz Çevirici ile Dolar, euro, sterlin ve diğer dövizlerinizin
+                    kaç TL ettiğini bulabilir ya da elinizdeki TL ile ne kadar döviz alabileceğinizi kolayca hesaplayabilirsiniz.

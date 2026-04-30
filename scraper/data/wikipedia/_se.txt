@@ -1,0 +1,14 @@
+.se, İsveç'in internet ülke üst seviye alan adıdır. İsveç İnternet Vakfı (İsveççe: Internetstiftelsen) tarafından yönetilir. Ekim 2024 itibarıyla 1.404.159 kayıtlı alan adı barındırır.
+
+
+Tarihçe
+Nisan 2003'ten önce .se üst alan adı altındaki alan adlarını yöneten kurallar oldukça kısıtlayıcıydı. Yalnızca ulusal çapta kayıtlı şirketler, dernekler ve yetkililer bir alan adı kaydedebiliyordu ve bu alan adı, kuruluş ismine çok benzer olmalıydı. Bireysel ürünler, tescilli marka olsalar bile ayrı ikinci seviye alan adları için uygun değildi. (Markalar tm.se altında kayıt yaptırabilirlerdi, ancak bu tatmin edici bulunmuyordu. Birçok şirket, bu kuralı aşmak ve markalarını korumak için ürünlerin adını taşıyan yan şirketler kurdu.) Bireyler, .pp.se alt alan adı üzerine yalnızca bir alan adı kaydedebiliyordu ve yalnızca bir ilde kayıtlı olan şirketler ve organizasyonlar, .se eki olan alan adlarına uygun oluyordu. İsveç'te kâr amacı gütmeyen kuruluş adları il bazında kaydedilirdi. Tüm bunlar süreci zorlu ve karmaşık hale getiriyordu. Doğrudan .se altında kayıt yaptıramayan birçok kişi bunun yerine .com veya .nu altında kayıt yaptı.
+2003'ten sonra gelen yeni kurallarla birlikte, herhangi bir varlık veya kişi, birkaç sınırlamaya tabi olarak istediği sayıda alan adı kaydedebilir. Alan adları, .se'nin engellenmiş veya zaten kullanılan alan adları listesinde yer almadığı sürece, herhangi bir kişi tarafından kaydedilebilir. Aynı zamanda, alan adı kaydı için kurallar "ilk gelen alır" şeklinde göre değiştirildi ve uyuşmazlık çözümü için daha basit kurallar oluşturuldu.
+Ekim 2003'ten itibaren .se, uluslararası alan adı (IDN) kaydını kabul etmeye başladı ve bu adlar å, ä, ö, ü ve é harflerini içerebiliyordu. 6 Eylül 2007'de toplamda 250 karakter kullanıma sunularak, İsveç'in yasal olarak tanınmış azınlık dillerindeki adları desteklendi: Fince, Meänkieli (Tornedalsfinska), Sami, Roman ve Yidiş.
+Å, ä, ö içeren alan adları pek yaygınlaşmadı; bunun sebeplerinden biri, kullanıcı tarafındaki tarayıcıların çeşitli özelliklere sahip olmasının gerekliliğiydi. 2013 itibarıyla, adında å, ä, ö harfleri bulunan kuruluşlar genellikle Latin harfleri ile (örneğin å yerine a) yazılan alan adlarını kullanmaktadır.
+.se altında hala kullanımda olan bazı ikinci seviye alan adları (SLD) bulunmaktadır, örneğin İsveç mahkemeleri için rezerve edilmiş olan .domstol.se. Bu alan adları NIC (Ağ Bilgi Merkezi) tarafından resmi olarak ikinci seviye alan adı olarak tanınmasa da pratikte bu şekilde kullanılmaktadır.
+.se, DNSSEC hizmeti sunan ilk TLD'dir ve bu hizmeti OpenDNSSEC kullanarak gerçekleştirmektedir.
+12 Ekim 2009'da, rutin bakım sırasında yapılan bir hata tüm adların Alan Adı Sistemi'nde (DNS) bozulmasına yol açarak, .se alanının tamamının 58 dakika boyunca kullanılamaz hale gelmesine neden olmuştu.
+
+
+Kaynakça

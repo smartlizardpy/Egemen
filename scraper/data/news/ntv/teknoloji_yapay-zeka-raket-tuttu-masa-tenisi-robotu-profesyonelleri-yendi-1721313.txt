@@ -1,0 +1,11 @@
+SOURCE: https://www.ntv.com.tr/teknoloji/yapay-zeka-raket-tuttu-masa-tenisi-robotu-profesyonelleri-yendi-1721313
+
+“Ace” adı verilen yapay zeka destekli robotik kol, yüksek hız ve falso içeren topları algılayarak anlık tepki verebiliyor.
+Sony ’nin yapay zeka birimi tarafından geliştirilen bir robot, elit düzey masa tenisi oyuncularını yenebilecek seviyeye ulaştı.
+Şirketin araştırmasına göre, “Ace” adı verilen yapay zeka destekli robotik kol, yüksek hız ve falso içeren topları algılayarak anlık tepki verebiliyor ve geri gönderebiliyor.
+Ace, saliseler içinde karar alarak güçlü ve çevik vuruşlar yapabiliyor. Sürekli mekanik sesler çıkaran robot, beş elit oyuncu ve iki profesyonelle karşı karşıya geldi.
+Sony AI’a göre robot, elit oyunculara karşı oynadığı beş maçın üçünü kazanırken, diğer karşılaşmalar da başa baş geçti.
+Araştırma yayımlandıktan sonra da geliştirilmeye devam eden Ace’in, daha yüksek top hızları, daha agresif yerleştirmeler ve daha hızlı rallilerle profesyonellere karşı yeni galibiyetler elde ettiği belirtildi.
+Sony AI, bu çalışmanın gerçek zamanlı algılama ve kontrol gerektiren problemlerin çözümünde önemli bir adım olduğunu vurgulayarak, benzer teknolojilerin dinamik ve fiziksel ortamlarda güvenli şekilde kullanılmasının önünü açabileceğini belirtti.
+Daha önce geliştirilen masa tenisi robotlarının yalnızca amatör seviyede kalabildiğine dikkat çekilirken, Sony AI Baş Bilim İnsanı Peter Stone, “Yapay zeka bu koşullarda uzman insan seviyesinde performans gösterdiğinde, daha önce mümkün olmayan yeni nesil gerçek dünya uygulamalarının önü açılır.” değerlendirmesinde bulundu.
+Web sitemizdeki çerezleri (cookie) kullanıcı deneyimini artıran teknik özellikleri desteklemek için kullanıyoruz. Aynı zamanda analitik çerezler de kullanıyoruz. Çerezleri reddetmek istiyorsanız detaylı bilgi için tıklayınız.

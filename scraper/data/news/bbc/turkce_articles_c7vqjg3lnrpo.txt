@@ -1,0 +1,63 @@
+SOURCE: https://www.bbc.com/turkce/articles/c7vqjg3lnrpo
+
+71 yaşındaki Maureen Sideris, 2008 yılında kalın bağırsak kanseri tedavisi görürken ameliyat olmak zorunda kaldı. Tedavisi başarılı oldu ama ameliyat sonrası iyileşme süreci oldukça zorlu geçti.
+New York'ta yaşayan Sideris'e 14 yıl sonra da yemek borusu kanseri teşhisi kondu. Bu kez klinik bir deney yoluyla gördüğü tedavisi çok farklıydı. Her üç haftada bir, New York'taki Memorial Sloan Kettering Kanser Merkezi'ne gidiyor, dostarlimab adlı bir ilaç enjekte ediliyordu.
+Sadece dört aylık tedaviden sonra, Sideris'in tümörü ameliyat, kemoterapi veya radyasyon olmadan ortadan kayboldu ve tek büyük yan etkisi de yorgunluğa yol açan böbrek üstü bezi yetmezliğiydi. Sideris tedavi için "İnanılmaz, sanki bilim kurgu gibi" diyor.
+Ama bu gerçekti. Sideris, bir asırdan fazla süren geliştirme sürecinin ardından ivme kazanan bir tedavi yöntemi olan ve bağışıklık sisteminin güçlendirilmesini amaçlayan immünoterapiden faydalanan ve sayıları giderek artan kanser hastasından biriydi.
+Teksas'taki MD Anderson Kanser Merkezi'nden cerrahi onkoloji profesörü ve immünoterapi araştırmacısı Jennifer Wargo "Duygulanıyorum, tüylerim diken diken oluyor" diyor.
+"İnsanlar bu tedaviyle yaşıyor ve kaliteli bir yaşam sürüyorlar."
+ABD'de immünoterapi gelişimini destekleyen kar amacı gütmeyen bir kuruluş olan Parker Kanser İmmünoterapi Enstitüsü'nün baş yöneticisi Karen Knudsen de, vücudun "kendisine benzemeyen hücreleri tespit etme ve ortadan kaldırma" konusunda doğal bir yeteneğe sahip olduğunu söylüyor.
+Her şey yolunda giderse bu yetenek kanserli hale gelen hücreleri hedef alıyor. Ancak bazen kanser hücreleri bu savunma sistemini atlatıyor ve tehlikeli, kontrolsüz bir büyümeye yol açıyor. Saklanıyorlar ve çevrelerindeki sağlıklı hücrelerden ayırt edilemez durumdalar.
+İmmünoterapinin amacı da bağışıklık sisteminin durumu görebilmesi için bu kanser hücrelerinin maskesini kaldırmak. Bağışıklık sisteminin savunmasını güçlendirerek kanserli hücreleri bulup, yok etmesini sağlıyor ve inanılmaz potansiyel sonuçları beraberinde getirebilir.
+En bilinen immünoterapi yöntemlerinden ikisi CAR T-hücre tedavisi ve bağışıklık kontrol noktası inhibitörleri.
+CAR T-hücre tedavilerinde hastanın kanından T hücreleri (belirli yabancı istilacıları avlayıp, öldüren son derece müstesna bağışıklık hücreleri) alınıyor, laboratuvarda kanser hücrelerini bulup saldırabilecek şekilde modifiye ediliyor ve ardından güçlendirilmiş T hücreleri vücuda veriliyor. Bu tedavi şu anda kan kanserlerinin tedavisinde kullanılıyor.
+Bağışıklık kontrol noktası inhibitörleri ise bağışıklık sistemindeki bir "kapatma" düğmesini devre dışı bırakan ilaçlar.
+Aslında bu koruma mekanizmasının önemli bir amacı var.  Sağlıklı hücrelere de zarar veren aşırı agresif bağışıklık tepkilerini önlüyor. Fakat bazı kanser hücreleri bu kapatma düğmesini çevirerek T hücrelerinin geri çekilmesine ve tespit edilmekten kaçmasına neden olabiliyor.
+İmmün kontrol noktası inhibitörleri ise bunun olmasını engelliyor. Yani T hücreleri kanser hücrelerini bir tehdit olarak tanımlıyor ve bir saldırı başlatıyor. Bu buluşa öncülük eden bilim insanları 2018 yılında Nobel Ödülü kazandı ve bu ilaçlar bugün birçok kanser türünde kullanılıyor.
+Yine de her iki yöntemin de sınırları var. Araştırmalar devam etse de, bilim insanları CAR T-hücre tedavilerini yeni teşhislerin %90'ından fazlasını oluşturan katı tümörlere karşı etkili hale getirmekte zorlanıyor. Ayrıca tedavi pahalı ve uygulanması emek yoğun.
+Londra'daki Francis Crick Enstitüsü'nden onkolog Samra Turajlic, bağışıklık kontrol noktası inhibitörlerinin "çok farklı yan etkileri" olabileceğini söylüyor.
+Bunun nedeni, bağışıklık sisteminin kapatma mekanizmalarının vücudun kendi dokularına saldırmasını önlemek için tasarlanmış olması ve bu savunmanın ortadan kaldırılmasıyla kanserli olmayan hücrelerin tehlikeye atılabilmesi.
+ABD Ulusal Kanser Enstitüsü'ne göre, yaygın yan etkiler arasında deri döküntüleri, ishal ve yorgunluk bulunuyor. Nadir hallerde ise karaciğer, kalp ve böbreklerde enflamasyona neden olabiliyor.
+Fakat bu tedavi agresif bir kanseri kontrol altına alıyorsa bu göz önüne alınabilecek bir risk. Ama hep böyle olmuyor.
+Turajlic'e göre, kanser tedavilerinin karşı karşıya olduğu büyük bir sorun, hiçbir immünoterapinin hastaların tamamında işe yaramaması.
+Tümörün yapısından bağışıklık hücrelerinin özelliklerine kadar bunun birçok potansiyel nedeni olabilir.
+Genel olarak, hastaların %20 ila %40'ı immünoterapiye yanıt veriyor.
+Bu da hastaların çoğunluğunun yan etkilere maruz kalması, zaman ve umutlarını boşa harcaması ve karşılığında pek bir fayda görmemesi anlamına geliyor.
+Peki nasıl daha fazla kanser hastası immünoterapiden faydalanabilir? Araştırmacılar bu soruna birçok farklı açıdan yaklaşıyor.
+Wargo'nun araştırması, henüz ilk aşamalarında olsa da, yüksek lifli diyet uygulayan hastaların, bağırsak mikrobiyomundaki değişikliklerle hem bağışıklık sistemini hem de tümörü etkileyebilecek daha iyi sonuçlar alabileceğini söylüyor.
+Diğer şaşırtıcı araştırmalar, ucuz ve erişilebilir kolesterol düşürücü ilaçlar olan statinlerin, hücre iletişiminde beklenmedik değişiklikler yoluyla immünoterapinin etkilerini artırabileceğini gösteriyor.
+Hatta tedavinin zamanlaması bile önemli olabilir. Bazı yeni araştırmalar, günün erken saatlerinde tedavi edilen hastaların daha sonra tedavi edilenlere göre daha iyi sonuçlar aldığını gösteriyor.
+İmmünoterapiyi radyasyon veya ultrason gibi diğer kanser tedavileriyle birleştirmek, tedaviye yanıt alma oranlarını artırmanın bir başka yolu olabilir.
+Bu yaklaşımı araştıran Weill Cornell Tıp Merkezi'nden Sandra Demaria "Radyasyon aslında tümörü bağışıklık sistemi için görünür hale getirebiliyor" diyor.
+Tümörlere saldırmak için yüksek frekanslı ses dalgalarını kullanan ultrason tedavisi de aynı şeyi yapabilir.
+Diğer araştırmacılar ise immünoterapinin kişiye özel hale getirilme kapasitesinden yararlanarak hastaları en uygun tedaviyle eşleştirmeye çalışıyor.
+Kişiselleştirilmiş tıp birçok alanda heyecan yaratıyor ama Knudsen, hastalığın çeşitliliği göz önüne alındığında, bunun özellikle onkoloji için önemli olduğunu vurguluyor.
+Knudsen, "Kanser tek bir hastalık değil" diyor.
+"200 farklı hastalık var ve hepsi farklı nedenlerden kaynaklanıyor ve farklı şekilde tedavi edilmeleri gerekiyor."
+Aynı tip ve evredeki kansere sahip iki kişinin bile hücresel düzeyde farklı hastalıkları olabiliyor.
+Demaria "Bu araştırma alanı bir dönüm noktasında. Artık kanseri değil, aslında hastanın kendisini tedavi etmeye doğru ilerleyebiliriz" diyor.
+Memorial Sloan Kettering Kanser Merkezi'ndeki bilim insanları, belirli bir genetik profile sahip tümörlerin dostarlimab gibi immün kontrol noktası inhibitörlerine iyi yanıt verme eğiliminde olduğu bulgusuna dayalı umut vadeden bir stratejiyi denediler.
+Bu genetik profile sahip rektal kanseri hastalarının tedavi edildiği 2022 ve 2024'teki iki küçük kapsamlı çalışmada, tümörler tamamen ortadan kaldırdı.
+Ekip daha sonra araştırmalarını, aynı genetik imzayı taşıyan çeşitli tümör türlerine (yemek borusu, mesane ve mide dahil) sahip 117 hastayı kapsayacak şekilde genişletti.
+Tedavinin tamamını bitiren 103 kişiden 84'ünde (Sideris dahil) tümörlerin tamamen kaybolduğu görüldü ve sadece ikisinde ek cerrahi müdahale gerekti.
+MD Anderson'dan araştırmacılar, farklı bir kontrol noktası inhibitörü kullanan bir yaklaşımda benzer sonuçlar açıkladı.
+Diğer araştırma grupları da, hastalar en nihayetinde ameliyat olsalar bile, tümörler önce immünoterapi ile hedef alınırsa, ameliyat sonuçlarının en azından bazı vakalarda daha iyi olabileceğini gösterdi.
+Memorial Sloan Kettering Kanser Merkezi'nden katı tümör onkolojisi başkanı Luis Diaz, daha fazla çalışmaya ihtiyaç duyulsa da, bu bulguların umut verici olduğunu söylüyor ve  Daha az sorunlu ama son derece etkili bir tedavi çağına kapı açıyor. Ortaçağdan modern çağa geçmeliyiz" diyor.
+"Rektumunuzu, midenizi veya mesanenizi çıkarmak yerine, daha iyisini yapmalıyız."
+Ancak, tümörlerin yalnızca yaklaşık %5'inin, Diaz ve meslektaşlarının incelediği, cerrahi müdahale gerektirmeyen immünoterapi tedavisi için uygun genetik yapıya sahip olduğu unutulmamalı.
+"Geri kalan %95'i ise benzer derecede iyi bir tedaviye ihtiyaç duyuyor" diyor.
+Bu amaçla araştırmacılar yeni immünoterapi yaklaşımları aramayı ve kanser aşıları gibi eski yaklaşımları geliştirme çabalarını sürdürüyorlar.
+Geleneksel aşılar, vücudu virüs gibi bir patojenin parçalarıyla tanıştırarak, gerçek virüse karşı bağışıklık tepkisi oluşturmayı sağlıyor.
+Knudsen'e göre benzer bir kavram kanserde de işe yarayabilir ama hastalığı önlemek için değil, tedavi etmek için kullanılabilir.
+Kanser hücrelerinin yüzeyleri çeşitli proteinlerle kaplı. Knudsen'e araştırmacılar aşı teknolojisini kullanılarak hastanın bağışıklık sistemini bu proteinleri tanıyıp, hedef alacak şekilde eğitebilir. Böylece de belirli kanser türlerine karşı vücudun güçlü bir tepki göstermesini tetikleyebilirler.
+Bu yaklaşımı destekleyen bazı ön bulgular zaten mevcut. ABD'deki Dana-Farber Kanser Enstitüsü'nden araştırmacılar kısa süre önce bir tür böbrek kanserine yakalanan dokuz kişi için kişiselleştirilmiş aşılar geliştirdi. Tümörler ameliyatla alındıktan sonra hastalar vücutlarındaki kalan tümör hücrelerinden arınmaları için aşılandı.
+Geçen yıl yayımlanan araştırmada da ekip dokuz hastanın tamamında bağışıklık sistemlerinin hedefli bir mücadele başlattığı ve ameliyattan yıllar sonra kansersiz yaşamaya devam ettikleri bildirildi.
+Knudsen "Önümüzde yeni bir dünya var" diyor.
+"Artık belki de çok hızlı bir şekilde, sahip olduğunuz tümöre karşı aşılama stratejileri geliştirebiliriz."
+Bu heyecana rağmen, önümüzdeki yol uzun.
+Doktorların hastaları, kanser türlerine özgü tedavilerle hassas ve güvenilir bir şekilde biraraya getirebileceği bir geleceğe ulaşmak adına daha fazla çalışmaya ihtiyaç var.
+Demaria "İlk aşama klinik denemelerin ötesine geçemeyen çok umut vadeden yöntemler oldu" diye uyarıyor.
+Diaz, hastaların bir kısmının herhangi bir immünoterapi türüne yanıt vermeyebileceğini söylüyor. Kanserlerin büyümelerine ve gelişmelerine olanak tanıyan farklı "süper güçleri" olduğunu ve bağışıklık sisteminin bazı kanser türleriyle diğerlerine kıyasla daha iyi mücadele edebildiğini belirtiyor.
+Ancak yanıt veren hastalar için immünoterapi, hem hayat kurtarıcı hem de hayat değiştirici olduğunu gösteriyor.
+Diaz'ın denemesine katılan New Yorklu hasta Sideris kendisini, onkoloji adına daha parlak bir geleceğin parçası gibi hissediyor.
+"Doktorlardan biri bana, 10 yıl içinde her türlü kemoterapi ve radyoterapinin kan akıtmak gibi, çok eski moda bir yöntem olacağını söyledi."

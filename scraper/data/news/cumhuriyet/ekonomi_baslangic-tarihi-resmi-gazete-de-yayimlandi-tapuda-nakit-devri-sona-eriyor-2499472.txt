@@ -1,0 +1,8 @@
+SOURCE: https://www.cumhuriyet.com.tr/ekonomi/baslangic-tarihi-resmi-gazete-de-yayimlandi-tapuda-nakit-devri-sona-eriyor-2499472
+
+Tapu işlemlerinde elden ödeme uygulaması sona eriyor. Ticaret Bakanlığı tarafından yapılan düzenleme ile Güvenli Ödeme Sistemi, taşınmaz satışlarında zorunlu hale getirildi. Yeni sistemle birlikte alıcı ve satıcı arasındaki para transferleri güvenli bir altyapı üzerinden gerçekleştirilecek.
+Ticaret Bakanlığı, düzenlemenin temel amacının dolandırıcılık, hırsızlık ve sahtecilik risklerini azaltmak olduğunu açıkladı. Aynı zamanda kayıtdışı işlemlerin önüne geçilmesi ve para transferlerinin güvenli bir ortamda yapılması hedefleniyor.
+Taşınmaz Ticareti Yönetmeliği’nde yapılan değişiklik Resmi Gazete’de yayımlanarak yürürlüğe girdi. Düzenleme ile taşınmaz satışlarında mülk devri ve ödeme işlemlerinin eş zamanlı yürütülmesi öngörülüyor.
+Yeni sistemin 1 Temmuz’a kadar isteğe bağlı olarak kullanılabileceği, bu tarihten sonra ise Güvenli Ödeme Sistemi’nin zorunlu hale geleceği ve elden ödeme yapılmasının mümkün olmayacağı belirtildi.
+Yeni uygulamada bloke mekanizması devreye alınacak. Buna göre alıcı tarafından gönderilen satış bedeli güvenli hesapta tutulacak ve tapu devri tamamlanana kadar bloke edilecek.
+Devir işleminin onaylanmasının ardından ödeme otomatik olarak satıcının hesabına aktarılacak. Bu sistemle birlikte taşınmaz satışlarında ödeme güvenliğinin artırılması amaçlanıyor.

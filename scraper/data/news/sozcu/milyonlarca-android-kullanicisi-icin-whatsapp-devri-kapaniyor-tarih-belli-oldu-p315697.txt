@@ -1,0 +1,16 @@
+SOURCE: https://www.sozcu.com.tr/milyonlarca-android-kullanicisi-icin-whatsapp-devri-kapaniyor-tarih-belli-oldu-p315697
+
+WhatsApp'ın teknik altyapısını modernize etme çabaları, eski işletim sistemlerini oyun dışı bırakıyor. Dünyaca ünlü anlık mesajlaşma uygulaması WhatsApp 8 Eylül 2026 itibarıyla Android 6.0 altındaki sürümlere olan desteğini tamamen sonlandıracak.
+Bu hamle, 2015 öncesi teknolojiyi kullanan cihazların artık WhatsApp ekosisteminde yer bulamayacağı anlamına geliyor.
+Android dünyasının devasa büyüklüğü, küçük gibi görünen yüzdeleri devasa birer kitleye dönüştürüyor. Güncel verilere göre:
+Android 5.0 Kullanım Oranı: Yaklaşık %0,69.
+Etkilenen Kullanıcı Sayısı: Dünya genelindeki 4 milyar Android kullanıcısı baz alındığında, yaklaşık 3 milyon cihaz erişim engeliyle karşılaşacak.
+Android 16'nın konuşulduğu günümüzde, on yıllık yazılımların bu platformdan çekilmesi şaşırtıcı olmasa da, bu cihazları hala aktif kullanan milyonlarca kişi için kritik bir dönem başlıyor.
+Uzmanlar, WhatsApp'ın bu kararının sadece yazılımsal bir zorunluluk değil, aynı zamanda bir güvenlik gerekliliği olduğunu vurguluyor.
+Android 5.0 ve altındaki sürümler, yıllardır Google’dan kritik güvenlik yamalarını almıyor. Bu durum, kullanıcıları siber saldırılara karşı savunmasız bırakırken, WhatsApp gibi uçtan uca şifreleme sunan uygulamaların tam kapasite çalışmasını engelliyor.
+Eski cihazlarda WhatsApp kullanımını sürdürmenin bir formülü bulunmuyor. Mesaj geçmişini koruyarak iletişime devam etmek isteyen kullanıcıların, takvimler 8 Eylül 2026’yı göstermeden önce güncel bir işletim sistemine sahip yeni bir cihaza geçiş yapmaları tek çözüm yolu olarak görünüyor.
+Sadece WhatsApp için değil, cihazdaki diğer popüler uygulamaların kararlılığı ve kişisel veri güvenliği için de bu değişim artık bir lüks değil, zorunluluk haline gelmiş durumda.
+www.sozcu.com.tr internet sitesinde yayınlanan yazı, haber ve fotoğrafların her
+                                    türlü telif hakkı Mega Ajans
+                                    ve Rek. Tic. A.Ş'ye aittir. İzin alınmadan, kaynak gösterilerek dahi iktibas
+                                    edilemez.
