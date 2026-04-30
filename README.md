@@ -1,6 +1,8 @@
-# Turkish SLM Corpus
+# Turkish SLM Corpus — Egemen
 
-A Turkish text corpus assembled for training small language models (SLMs), scraped from Wikipedia, Turkish news outlets, and biographical sources.
+This is the training dataset for **Egemen**, a Turkish small language model (SLM). The corpus is scraped from Wikipedia, Turkish news outlets, and biographical sources.
+
+> The Egemen model will be released separately once trained.
 
 ## Dataset
 
